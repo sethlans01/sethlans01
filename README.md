@@ -10,3 +10,7 @@ I'm a representative of students of C.S. Eng.
  * C
  * C++
  * Python
+
+ ## What I am learning:
+ * Java
+ * Deamons for Windows and Linux
