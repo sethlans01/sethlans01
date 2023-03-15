@@ -10,7 +10,11 @@ I'm a representative of students of C.S. Eng.
  * C
  * C++
  * Python
-
- ## What I am learning:
  * Java
  * Deamons for Windows and Linux
+
+ ## What I am learning:
+ * HTML
+ * CSS
+ * VHDL Basics
+ * JavaScript
