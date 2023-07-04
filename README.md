@@ -12,9 +12,10 @@ I'm a representative of students of C.S. Eng.
  * Python
  * Java
  * Deamons for Windows and Linux
-
- ## What I am learning:
  * HTML
  * CSS
  * VHDL Basics
  * JavaScript
+
+ ## What I am learning:
+
