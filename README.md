@@ -3,7 +3,7 @@ I'm Andrea and I'm a Computer Science Engineering student at Politecnico di Mila
 
 I'm a representative of students of C.S. Eng.
 
-📫 How to reach me: you can write me an email at sethlans01.developer@gmail.com or on Discord at sethlans01#8375
+📫 How to reach me: you can write me an email at sethlans01.developer@gmail.com or on Discord at sethlans01.
  
  
  ## What I can do/know:
@@ -14,8 +14,10 @@ I'm a representative of students of C.S. Eng.
  * Deamons for Windows and Linux
  * HTML
  * CSS
- * VHDL Basics
  * JavaScript
+ * VHDL Basics
 
  ## What I am learning:
-
+* C# and Unity
+* Bootstrap
+* React
