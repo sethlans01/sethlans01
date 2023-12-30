@@ -11,7 +11,7 @@ I'm a representative of students of C.S. Eng.
  * C++
  * Python
  * Java
- * Deamons for Windows and Linux
+ * Daemons for Windows and Linux
  * HTML
  * CSS
  * JavaScript
@@ -20,4 +20,4 @@ I'm a representative of students of C.S. Eng.
  ## What I am learning:
 * C# and Unity
 * Bootstrap
-* React
+* Angular
