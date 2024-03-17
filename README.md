@@ -16,8 +16,9 @@ I'm a representative of students of C.S. Eng.
  * CSS
  * JavaScript
  * VHDL Basics
+ *  C# and Unity
+ * Bootstrap
 
  ## What I am learning:
-* C# and Unity
-* Bootstrap
 * Angular
+* Vulkan
