@@ -19,6 +19,4 @@ I'm Andrea and I'm a Computer Science Engineering student at Politecnico di Mila
  * C# and Unity
  * Bootstrap
  * Angular
-
- ## What I am learning:
-* Vulkan
+ * Vulkan
